@@ -1,4 +1,4 @@
-# O casamento da matemática com a história e filosofia 
+# O casamento da matemática com a língua portuguesa
 
 ### Quem disse que matemática, história e filosofia não se conversam?
 ---
@@ -21,13 +21,13 @@
 
 +  Disciplina_5\. Microeconomia
 
-+ Discicplina_6\. Cálculo para Economistas
++ Disciplina_6\. Cálculo para Economistas
 ---
 * Disciplina_7\. Processamento de Dados
 
 *  Disciplina_8\. Contabilidade Social
 
-* Discicplina_9\. História do Pensamento Econômico II
+* Disciplina_9\. História do Pensamento Econômico II
 ***Economia e suas ramificações***
 
 | Área | Campo de Atuação | Disciplinas Utilizadas |
